@@ -5,7 +5,7 @@ Full-Stack Web Developer • WordPress Theme & Plugin Engineer • MERN & Next.j
 </p>
 
 <p align="center">
-Building scalable web apps and high-quality WordPress solutions since 2023
+Building scalable web apps and high-quality WordPress solutions since 2022
 </p>
 
 ---
@@ -116,8 +116,8 @@ I enjoy building real, production-ready systems and solving complex technical pr
 
 ## ✦ Contact
 
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your-email@example.com  
+- GitHub: https://github.com/marufimransarkar1
+- Email: marufimran434@gmail.com
 - Fiverr: available on request
 
 ---
