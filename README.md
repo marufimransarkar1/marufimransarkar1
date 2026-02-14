@@ -1,119 +1,127 @@
-# 👋 Hi, I'm Maruf Imran
+<h1 align="center">Hi, I'm Maruf Imran 👋</h1>
 
-🚀 **Full-Stack Web Developer | WordPress Theme & Plugin Developer**  
-💻 MERN • Next.js • WordPress • REST API • Custom UI Development  
-📍 Bangladesh
+<p align="center">
+Full-Stack Web Developer • WordPress Theme & Plugin Engineer • MERN & Next.js
+</p>
 
----
-
-## 👨‍💻 About Me
-
-I’m a professional and highly motivated **Full-Stack Web Developer** with real-world experience building modern web applications and custom WordPress solutions.
-
-I specialize in:
-
-- building **scalable web applications**
-- developing **custom WordPress themes & plugins from scratch**
-- converting **Figma / PSD designs into fully responsive websites**
-- creating **clean, maintainable and performance-focused code**
-
-I started working professionally in **2023** and I am continuously improving my skills by working on real client projects and advanced personal projects.
+<p align="center">
+Building scalable web apps and high-quality WordPress solutions since 2023
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## ✦ About
 
-### 🌐 Frontend
-- HTML5, CSS3, SCSS
-- JavaScript (ES6+)
-- React.js
-- Next.js
-- Tailwind CSS, Bootstrap
-- jQuery
+I’m a professional **Full-Stack Web Developer** specializing in modern JavaScript stacks and advanced WordPress engineering.
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- PHP
-- REST API development
+I focus on building:
 
-### 🗄️ Database
-- MongoDB
-- MySQL
+- production-ready web applications  
+- custom WordPress themes and plugins (from scratch)  
+- clean, scalable backend architectures  
+- high-performance and maintainable frontends
 
-### 🧩 CMS & WordPress
-- Custom WordPress Theme Development
-- Custom WordPress Plugin Development
-- Custom Post Types, Custom Taxonomies
+My main strength is combining **custom CMS engineering** with **modern JavaScript frameworks**.
+
+---
+
+## ✦ Core Stack
+
+**Frontend**
+
+- HTML5, CSS3, SCSS  
+- JavaScript (ES6+)  
+- React.js  
+- Next.js  
+- Tailwind CSS, Bootstrap  
+
+**Backend**
+
+- Node.js  
+- Express.js  
+- PHP  
+- REST API development  
+
+**Databases**
+
+- MongoDB  
+- MySQL  
+
+---
+
+## ✦ WordPress Engineering
+
+- Custom theme development (from scratch)
+- Custom plugin development
+- Custom Post Types, taxonomies and meta systems
 - Advanced Custom Fields (ACF)
 - Hooks & Filters
 - WordPress REST API
-- Elementor Expert
-- Crocoblock (JetEngine, JetFormBuilder, etc.)
-- Custom Elementor Widgets
-
-### 🧱 Architecture & Engineering
-- OOP (Object-Oriented Programming)
-- MVC Pattern
-- Clean & Modular Code Structure
-
-### 🧰 Tools & Workflow
-- Git & GitHub
-- Figma
-- VS Code
-- Postman
-- npm / yarn
+- Custom admin dashboards
+- Elementor expert
+- Crocoblock (JetEngine, JetFormBuilder)
+- Custom Elementor widgets
 
 ---
 
-## 🔧 Core Skills
+## ✦ Architecture & Code
 
-- Full-Stack web application development (MERN & Next.js)
-- WordPress theme & plugin development from scratch
-- Figma / PSD / HTML to WordPress
-- Custom dashboard & admin panel development
-- API integration (third-party & custom APIs)
-- Responsive & cross-browser UI development
-- Performance and security best practices
-- Debugging and maintaining large WordPress projects
+- Object Oriented Programming (OOP)
+- MVC based project structure
+- Modular and reusable components
+- Clean and maintainable codebase
+- Performance-focused development
 
 ---
 
-## 🚀 What I Can Build
+## ✦ What I Build
 
 - SaaS platforms
-- Business & corporate websites
-- Custom WordPress CMS systems
 - Admin dashboards
-- REST API based applications
-- Real-time and dynamic web apps
-- Website builders and custom content management systems
+- Custom CMS systems
+- API-driven web applications
+- Business and corporate websites
+- Website builders and internal tools
 
 ---
 
-## 📌 Current Focus
+## ✦ Current Focus
 
 - Advanced WordPress plugin architecture
-- Custom Elementor widget development
+- Custom Elementor widget systems
 - Scalable MERN & Next.js applications
 - SaaS product development
-- Clean backend architecture & API design
+- API design & integration
 
 ---
 
-## 🧠 Professional Summary
+## ✦ Tech & Tools
 
-I am a detail-oriented developer who enjoys solving complex problems and building real, production-ready solutions.  
-My goal is to work on challenging projects where I can contribute as a reliable developer and continuously grow as a software engineer.
-
----
-
-## 📫 Contact
-
-- 💼 Fiverr: *(available on request)*
-- 💬 GitHub: https://github.com/your-username
-- 📧 Email: your-email@example.com
+- Git & GitHub  
+- Figma to production UI  
+- Postman  
+- VS Code  
+- npm / yarn  
 
 ---
 
-⭐ If you like my work, feel free to star my repositories and follow me!
+## ✦ Professional Summary
+
+Detail-oriented developer with strong experience in both  
+**modern JavaScript stacks** and **advanced WordPress development**.
+
+I enjoy building real, production-ready systems and solving complex technical problems with clean architecture.
+
+---
+
+## ✦ Contact
+
+- GitHub: https://github.com/YOUR_USERNAME  
+- Email: your-email@example.com  
+- Fiverr: available on request
+
+---
+
+<p align="center">
+<sub>Open to professional collaborations and long-term projects.</sub>
+</p>
